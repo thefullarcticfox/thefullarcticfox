@@ -1,9 +1,11 @@
 <p>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="top" alt="thefullarcticfox's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=thefullarcticfox&show_icons=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=eb4910&icon_color=eb4910&text_color=c9d1d9&custom_title=thefullarcticfox%27s%20GitHub%20stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=thefullarcticfox&show_icons=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=eb4910&icon_color=eb4910&text_color=c9d1d9&custom_title=thefullarcticfox%27s%20GitHub%20stats"
+         alt="thefullarcticfox's GitHub stats" align="top" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="top" alt="thefullarcticfox's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thefullarcticfox&layout=compact&langs_count=10&hide_border=true&bg_color=0d1117&title_color=eb4910&text_color=c9d1d9&hide=php,html,css,scss,objective-c,cmake" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thefullarcticfox&layout=compact&langs_count=10&hide_border=true&bg_color=0d1117&title_color=eb4910&text_color=c9d1d9&hide=php,html,css,scss,objective-c,cmake"
+          alt="thefullarcticfox's Top Languages" align="top" />
   </a>
 </p>
 
